@@ -15,27 +15,26 @@
 	strs=station_names.split("@"); //字符分割 
 	if (strs.length>0) {
 		document.write("[<br/>");
-		for ( var i = 0;i<strs.length ;i++ ) 
-		{ 
-			var root = strs[i].split("|"); //字符分割 ;
-			document.write("{<br/>");
-			//for (var j = 0 ; j <root.length ; j++) {
-				//document.write("code_"+j+":"+root[j]+"<br/>"); //分割后的字符输出 
-				document.write("\"simple\":\""+root[0]+"\",<br/>"); //分割后的字符输出 
-				document.write("\"name\":\""+root[1]+"\",<br/>"); //分割后的字符输出 
-				document.write("\"code\":\""+root[2]+"\",<br/>"); //分割后的字符输出 
-				document.write("\"all\":\""+root[3]+"\",<br/>"); //分割后的字符输出 
-				document.write("\"short\":\""+root[4]+"\",<br/>"); //分割后的字符输出
-				document.write("\"id\":\""+root[5]+"\"<br/>"); //分割后的字符输出  
-			//};
-			if (i<strs.length-1) {
-				document.write("},<br/>");
-			}else{
-				document.write("]<br/>");
-			}
-			
-		} 
-			document.write("}<br/>");
+			for ( var i = 0;i<strs.length ;i++ ) 
+			{ 
+				var root = strs[i].split("|"); //字符分割 ;
+				document.write("{<br/>");
+				//for (var j = 0 ; j <root.length ; j++) {
+					//document.write("code_"+j+":"+root[j]+"<br/>"); //分割后的字符输出 
+					document.write("\"simple\":\""+root[0]+"\",<br/>"); //分割后的字符输出 
+					document.write("\"name\":\""+root[1]+"\",<br/>"); //分割后的字符输出 
+					document.write("\"code\":\""+root[2]+"\",<br/>"); //分割后的字符输出 
+					document.write("\"all\":\""+root[3]+"\",<br/>"); //分割后的字符输出 
+					document.write("\"short\":\""+root[4]+"\",<br/>"); //分割后的字符输出
+					document.write("\"id\":\""+root[5]+"\"<br/>"); //分割后的字符输出  
+				//};
+				if (i<strs.length-1) {
+					document.write("},<br/>");
+				}else{
+					document.write("]<br/>");
+				}
+			} 
+		document.write("}<br/>");
 
 	};
 	

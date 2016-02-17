@@ -1,5 +1,5 @@
 [
-{"seasonName":"A",
+{"sectionName":"A",
 "data":[
 {
 "ID":"530",
@@ -323,7 +323,7 @@
 }
 ]
 },
-{"seasonName":"B",
+{"sectionName":"B",
 "data":[
 {
 "ID":"560",
@@ -1223,7 +1223,7 @@
 }
 ]
 },
-{"seasonName":"C",
+{"sectionName":"C",
 "data":[
 {
 "ID":"643",
@@ -2155,7 +2155,7 @@
 }
 ]
 },
-{"seasonName":"D",
+{"sectionName":"D",
 "data":[
 {
 "ID":"693",
@@ -3423,7 +3423,7 @@
 }
 ]
 },
-{"seasonName":"E",
+{"sectionName":"E",
 "data":[
 {
 "ID":"802",
@@ -3547,7 +3547,7 @@
 }
 ]
 },
-{"seasonName":"F",
+{"sectionName":"F",
 "data":[
 {
 "ID":"816",
@@ -4079,7 +4079,7 @@
 }
 ]
 },
-{"seasonName":"G",
+{"sectionName":"G",
 "data":[
 {
 "ID":"921",
@@ -4971,7 +4971,7 @@
 }
 ]
 },
-{"seasonName":"H",
+{"sectionName":"H",
 "data":[
 {
 "ID":"31",
@@ -6583,7 +6583,7 @@
 }
 ]
 },
-{"seasonName":"J",
+{"sectionName":"J",
 "data":[
 {
 "ID":"220",
@@ -7707,7 +7707,7 @@
 }
 ]
 },
-{"seasonName":"K",
+{"sectionName":"K",
 "data":[
 {
 "ID":"1116",
@@ -7991,7 +7991,7 @@
 }
 ]
 },
-{"seasonName":"L",
+{"sectionName":"L",
 "data":[
 {
 "ID":"1159",
@@ -9675,7 +9675,7 @@
 }
 ]
 },
-{"seasonName":"M",
+{"sectionName":"M",
 "data":[
 {
 "ID":"1264",
@@ -10311,7 +10311,7 @@
 }
 ]
 },
-{"seasonName":"N",
+{"sectionName":"N",
 "data":[
 {
 "ID":"1336",
@@ -10979,7 +10979,7 @@
 }
 ]
 },
-{"seasonName":"P",
+{"sectionName":"P",
 "data":[
 {
 "ID":"1377",
@@ -11575,7 +11575,7 @@
 }
 ]
 },
-{"seasonName":"Q",
+{"sectionName":"Q",
 "data":[
 {
 "ID":"1411",
@@ -12275,7 +12275,7 @@
 }
 ]
 },
-{"seasonName":"R",
+{"sectionName":"R",
 "data":[
 {
 "ID":"2385",
@@ -12479,7 +12479,7 @@
 }
 ]
 },
-{"seasonName":"S",
+{"sectionName":"S",
 "data":[
 {
 "ID":"1517",
@@ -14307,7 +14307,7 @@
 }
 ]
 },
-{"seasonName":"T",
+{"sectionName":"T",
 "data":[
 {
 "ID":"385",
@@ -15231,7 +15231,7 @@
 }
 ]
 },
-{"seasonName":"W",
+{"sectionName":"W",
 "data":[
 {
 "ID":"409",
@@ -16219,7 +16219,7 @@
 }
 ]
 },
-{"seasonName":"X",
+{"sectionName":"X",
 "data":[
 {
 "ID":"1787",
@@ -17695,7 +17695,7 @@
 }
 ]
 },
-{"seasonName":"Y",
+{"sectionName":"Y",
 "data":[
 {
 "ID":"1915",
@@ -19315,7 +19315,7 @@
 }
 ]
 },
-{"seasonName":"Z",
+{"sectionName":"Z",
 "data":[
 {
 "ID":"2064",
